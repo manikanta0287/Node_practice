@@ -28,12 +28,7 @@ console.log(a);
 var b = 12;
 console.log(b);
 
-function letter(){
-    var a = "mkmkm";
-    console.log(a);
-}
 
-letter();
 
 function combine(){
     var kk = 'naresh';
@@ -48,6 +43,11 @@ function combine(){
 combine()
 
 
+function letter(){
+    var a = "mkmkm";
+    console.log(a);
+}
 
+letter();
 
 
