@@ -51,3 +51,10 @@ function letter(){
 letter();
 
 
+//-----------------------------------------------------arrays---------------------------------------
+let city = ['kolkata', 'chennai', 'Mumbai'];
+
+let len = city.length;
+
+console.log("length of the array :",len);
+
