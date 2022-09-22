@@ -58,3 +58,10 @@ let len = city.length;
 
 console.log("length of the array :",len);
 
+//Using Array length in for loop
+
+var languages = ["JavaScript", "Python", "C++", "Java", "Lua"];
+
+for (i = 0; i < languages.length; i++){
+    console.log(languages[i]);
+}
