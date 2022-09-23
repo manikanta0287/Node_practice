@@ -88,3 +88,5 @@ let asciiArr = stringArr.map(x => x.charCodeAt(0));
 console.log(stringArr); // ['J', 'a', 'v', 'a','S', 'c', 'r', 'i', 'p', 't']
 
 console.log(asciiArr); // [ 74,  97, 118,  97, 83,  99, 114, 105, 112, 116 ]
+
+console.log(string.replace(''));
