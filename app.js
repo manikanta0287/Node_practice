@@ -58,9 +58,11 @@ let len = city.length;
 
 console.log("length of the array :",len);
 
-//Using Array length in for loop
+// Using Array length in for loop
 
 var languages = ["JavaScript", "Python", "C++", "Java", "Lua"];
+
+console.log(languages);
 
 for (i = 0; i < languages.length; i++){
     console.log(languages[i]);
@@ -90,3 +92,12 @@ console.log(stringArr); // ['J', 'a', 'v', 'a','S', 'c', 'r', 'i', 'p', 't']
 console.log(asciiArr); // [ 74,  97, 118,  97, 83,  99, 114, 105, 112, 116 ]
 
 console.log(string.replace(''));
+
+var cars = ['asf','asdf', 'sdfg', 'dfhj']
+
+/* let i = 2;
+let len = cars.length;
+let text = "";
+for (; i < len; i++) {
+  text += cars[i] + "<br>";
+} */
