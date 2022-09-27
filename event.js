@@ -14,4 +14,4 @@ eventEmitter.on('geeks', myEventHandler);
 // Fire the 'geeks' event:
 eventEmitter.emit('geeks');
 
-myEventHandler()
+// myEventHandler()
