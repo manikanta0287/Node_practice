@@ -80,3 +80,11 @@ console.log("Multiplication of", x,
 
 //REPL---- Read, Eval, Print, Loop
 
+// Read-> Reading the values
+
+//Eval -> Evalutaing the object values
+
+//Print -> Printing the value
+
+//Loop -> Iterating the values
+
