@@ -74,3 +74,9 @@ console.log("Multiplication of", x,
     console.log("Join string: ", z.join(', '));
        
     console.log("Char At Index 5: ", x.charAt(5) );
+
+
+//----------web based application---------------
+
+//REPL---- Read, Eval, Print, Loop
+
