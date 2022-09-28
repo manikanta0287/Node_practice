@@ -15,3 +15,12 @@ eventEmitter.on('geeks', myEventHandler);
 eventEmitter.emit('geeks');
 
 // myEventHandler()
+
+function printHello() {
+    console.log( "Hello, World!");
+
+    console.log( "Karthikeya");
+ }
+ 
+ // Now call above function after 2 seconds
+ var timeoutObj = setTimeout(printHello, 2000); //setTimeout method
