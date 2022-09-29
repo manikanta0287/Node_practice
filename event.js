@@ -25,4 +25,4 @@ function printHello() {
  // Now call above function after 2 seconds
  var timeoutObj = setTimeout(printHello, 2000); //setTimeout method
 
- 
+ console.log(timeoutObj);
