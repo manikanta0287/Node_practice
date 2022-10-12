@@ -22,4 +22,4 @@ var details = {
     website: 'Xelpmoc.in'
 }
 
-module.exports =  details  , {xyz }
+module.exports =  details  , { xyz }

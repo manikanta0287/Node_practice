@@ -9,8 +9,11 @@ function addition(a, b){
 }
 
 console.log(details.name)
-const mm = details.xyz();
-console.log(mm);
-details.xyz()
+
+
+
+console.log("++++++++++++");
+
+
 
 module.exports = addition
