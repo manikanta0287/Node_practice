@@ -9,17 +9,11 @@
 
 function abc(a,b){
    
-    c = a + b;
-    console.log(c);
+    return  a + b;
+    
 }
 
 
 
-abc(20, 25)
 
-const flying = "flying machines"
-
-
-
-
-module.exports = abc
+module.exports =  abc; 

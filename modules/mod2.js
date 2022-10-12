@@ -1,14 +1,19 @@
-const abc = require ("./mod1");
+const a = require ("./mod1");
 
 
-function xyz (abc){
-    console.log(abc);
+function xyz (){
+   console.log("123");
+   console.log("345");
+  
 }
 
-// xyz();
+xyz();
 
 console.log("<<<<>>>>");
-console.log(abc);
+
+
+const result = a(5,2)
+console.log("The result is:",result);
 
 
 
@@ -17,4 +22,4 @@ var details = {
     website: 'Xelpmoc.in'
 }
 
-module.exports = details
+module.exports =  details  , {xyz }

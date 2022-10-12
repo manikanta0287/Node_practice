@@ -8,7 +8,9 @@ function addition(a, b){
     console.log(a + b)
 }
 
-
-
+console.log(details.name)
+const mm = details.xyz();
+console.log(mm);
+details.xyz()
 
 module.exports = addition
