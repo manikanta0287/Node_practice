@@ -1,4 +1,4 @@
-const details = require("./mod2")
+const details = require("./example")
 
 
 console.log(details.website);
