@@ -1,0 +1,7 @@
+this is second testing file : Hi 
+This is a read file..............
+
+
+file1 details are added here, 
+Notice the difference between read.txt to file1.txt.
+ Created on 1677827842909
