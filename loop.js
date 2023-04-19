@@ -4,7 +4,8 @@
 
 var names = [
         'mani', 
-        'kanta'
+        'kanta',
+        'Harish'
     ]
 
 
